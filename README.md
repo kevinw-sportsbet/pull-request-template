@@ -1,1 +1,1 @@
-This is the readme file
+This is the readme file for the Pull Request Hack Day project
