@@ -13,11 +13,11 @@ Please include the JIRA ticket link to your feature/fix
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-### Root cause (bug fix)
+### Root cause (Optional)
 
 Please provide description of the root cause of this bug
 
-### How to reproduce this bug and test it (bug fix)?
+### How to reproduce this bug and test it (Optional)?
 
 Please provide steps to reproduce the bug and how to test it
 
